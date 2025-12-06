@@ -1,4 +1,5 @@
 site_name: LLM-BOOK
+site_url: https://github.com/buffaloboyhu/llm-book
 theme:
   name: material
   primary: teal

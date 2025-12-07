@@ -117,4 +117,4 @@ print("\nFeature Matrix:\n", X.toarray())
 
 ## 二、分布式表示
 
-[分布式表示](https://github.com/shibing624/nlp-tutorial/blob/main/01_word_embedding/01_%E6%96%87%E6%9C%AC%E8%A1%A8%E7%A4%BA.ipynb)
+[分布式表示教程](https://github.com/shibing624/nlp-tutorial/blob/main/01_word_embedding/01_%E6%96%87%E6%9C%AC%E8%A1%A8%E7%A4%BA.ipynb)

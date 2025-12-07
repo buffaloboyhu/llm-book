@@ -58,7 +58,7 @@ nav:
   - 主页: index.md
   - 大模型基础:
       - 自然语言处理（NLP）:
-          - NLP: llm-basic/nlp/nlp.md
+          - NLP教程: llm-basic/nlp/nlp.md
       - Transformer模型: llm-basic/transformer/transformer.md
       - MoE(专家混合模型): llm-basic/MoE/basic.md
 

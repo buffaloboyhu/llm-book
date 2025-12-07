@@ -32,10 +32,19 @@ theme:
     - diagrams
   language: zh
 
+extra_css:
+  - styles/title-colors.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - 主页: index.md
   - 大模型基础:
-      - NLP: llm-basic/nlp/nlp.md
+      - 自然语言处理（NLP）:
+          - 01-文本表示: llm-basic/nlp/01-text.md
       - Transformer: llm-basic/transformer/transformer.md
 
   - 大模型训练:
